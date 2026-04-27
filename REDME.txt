@@ -1,0 +1,9 @@
+wypakuj do katalogu c:\Mysz\
+
+uruchom z uprawnieniami administratora (UAC)
+PLIKI:
+
+1. Instaluj_Mysz.bat
+2. harmonogram.bat 
+
+pobiez DeviceCleanupCmd (link do pobrania masz w DeviceCleanupCmd.txt )  i wrzuc do folderu c:\Mysz\
